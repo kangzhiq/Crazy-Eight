@@ -1,0 +1,12 @@
+controller
+exception
+model.action
+model.carte
+model.effet
+model.enumeration
+model.jeu
+model.joueur
+model.variante
+view.ui
+view.ui.composant
+view.uiTexte
